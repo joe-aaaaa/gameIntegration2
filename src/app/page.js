@@ -27,7 +27,7 @@ export default function HomePage() {
     { img: Classmate5Img, name: "毛怡蓁", url: "https://joea-game0.vercel.app" },
     { img: Classmate6Img, name: "王巧薰", url: "https://final-game-phi.vercel.app/" },
     { img: Classmate7Img, name: "何羽凡", url: "https://joea-game0.vercel.app" },
-    { img: Classmate8Img, name: "黃梓育", url: "https://joea-game0.vercel.app" },
+    { img: Classmate8Img, name: "黃梓育", url: "https://get-the-score-git-main-jerry1050382s-projects.vercel.app" },
     { img: Classmate9Img, name: "張育涵", url: "https://zombie-game-blush.vercel.app" },
     { img: Classmate10Img, name: "謝雨彤", url: "https://put-the-shot.vercel.app/game/RulesPanel" },
   ];
